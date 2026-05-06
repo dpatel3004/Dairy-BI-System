@@ -129,7 +129,10 @@ SOURCE queries.sql;
 
 ### Excel Dashboard
 - Screenshots of Dashboard:
-
+  
+<img width="1201" height="683" alt="Image" src="https://github.com/user-attachments/assets/b8f9c7b7-9812-42da-9d77-3d3528502fd2" />
+<img width="1398" height="683" alt="Image" src="https://github.com/user-attachments/assets/5ffa476c-18d9-4a1a-8c1d-f6315a0ef042" />
+<img width="1398" height="683" alt="Image" src="https://github.com/user-attachments/assets/1035db3d-0f8d-4279-95d1-4a86ebd24d3e" />
 
 ---
 
