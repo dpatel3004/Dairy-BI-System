@@ -128,10 +128,8 @@ SOURCE queries.sql;
 ```
 
 ### Excel Dashboard
-- Open `Main1.xlsm` in **Microsoft Excel**
-- Enable Macros when prompted
-- Use the **Slicers** to filter by product / time period
-- Use the **Home Page** buttons to navigate between sheets
+- Screenshots of Dashboard:
+
 
 ---
 
